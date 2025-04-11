@@ -1,8 +1,8 @@
 # 🔧 node dependencies
-node_modules/
+/node_modules/
 
 # ⚙️ Build output
-build/
+/build/
 dist/
 
 # 🧪 Testing logs

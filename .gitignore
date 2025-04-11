@@ -1,0 +1,27 @@
+# 🔧 node dependencies
+node_modules/
+
+# ⚙️ Build output
+build/
+dist/
+
+# 🧪 Testing logs
+coverage/
+
+# 💬 Logs
+*.log
+npm-debug.log*
+
+# 🔒 Environment secrets (optional if using)
+.env
+
+# 🚀 Editor folders
+.vscode/
+.idea/
+.DS_Store
+
+# 🔄 OS-specific
+Thumbs.db
+
+# 🔄 MacOS system files
+*.DS_Store
